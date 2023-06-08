@@ -1,6 +1,6 @@
 /*
 ** EPITECH PROJECT, 2022
-** my put nbr bin
+** loki
 ** File description:
 ** display a nbr in binary
 */

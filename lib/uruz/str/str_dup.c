@@ -1,11 +1,11 @@
 /*
 ** EPITECH PROJECT, 2022
-** Lib
+** loki
 ** File description:
 ** str_dup
 */
 
-#include "my.h"
+#include "uruz/uruz.h"
 
 char *str_dup(char const *src)
 {

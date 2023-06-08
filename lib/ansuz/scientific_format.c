@@ -1,6 +1,6 @@
 /*
 ** EPITECH PROJECT, 2022
-** scientific format
+** loki
 ** File description:
 ** put an int in the normalized scientific format
 */

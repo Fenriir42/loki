@@ -1,6 +1,6 @@
 /*
 ** EPITECH PROJECT, 2023
-** B-PSU-100-REN-1-1-navy-gabriel.hosquet
+** loki
 ** File description:
 ** array_len
 */

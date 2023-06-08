@@ -1,12 +1,12 @@
 /*
 ** EPITECH PROJECT, 2023
-** list_remove
+** loki
 ** File description:
 ** removes a node from the list
 */
 
-#include "linked_lists.h"
-#include "kepler/k_utils.h"
+#include "ehwaz/linked_lists.h"
+#include "uruz/u_utils.h"
 
 static void list_remove_node(list_t *list, list_node_t *node)
 {

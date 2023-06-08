@@ -1,6 +1,6 @@
 /*
 ** EPITECH PROJECT, 2023
-** minishell 1
+** loki
 ** File description:
 ** str_split
 */
@@ -10,7 +10,7 @@
 
 static bool is_separator(char c, char const *separators)
 {
-    return (str_index_of(separators, c) != K_SENTINEL);
+    return (str_index_of(separators, c) != U_SENTINEL);
 }
 
 static int count_sepa(char const *str, char const *separators)

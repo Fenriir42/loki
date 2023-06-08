@@ -1,11 +1,11 @@
 /*
 ** EPITECH PROJECT, 2023
-** B-PSU-100-REN-1-1-navy-gabriel.hosquet
+** loki
 ** File description:
 ** mem_calloc
 */
 
-#include "my.h"
+#include "uruz/uruz.h"
 
 void *mem_calloc(size_t nmem, size_t size)
 {

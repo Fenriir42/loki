@@ -1,6 +1,6 @@
 /*
 ** EPITECH PROJECT, 2022
-** my put long long number
+** loki
 ** File description:
 ** the put number but for long long int
 */

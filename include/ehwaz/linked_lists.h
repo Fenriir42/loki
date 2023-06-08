@@ -1,6 +1,6 @@
 /*
 ** EPITECH PROJECT, 2023
-** lem-in
+** loki
 ** File description:
 ** header
 */
@@ -70,5 +70,11 @@ list_node_t *list_get_node(list_t *list, unsigned int index);
  * @param index the index of the node to remove
  */
 void list_remove(list_t *list, unsigned int index);
+
+/**
+ * @brief destroy the list
+ * @param list the list to destroy
+ */
+void list_destroy(list_t *list);
 
 #endif

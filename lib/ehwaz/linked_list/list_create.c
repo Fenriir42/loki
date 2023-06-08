@@ -1,13 +1,13 @@
 /*
 ** EPITECH PROJECT, 2023
-** list_create
+** loki
 ** File description:
 ** creates a list
 */
 
 #include <stdlib.h>
-#include "linked_lists.h"
-#include "kepler/k_utils.h"
+#include "ehwaz/linked_lists.h"
+#include "uruz/u_utils.h"
 
 list_t *list_create(void)
 {

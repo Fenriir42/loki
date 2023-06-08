@@ -1,6 +1,6 @@
 /*
 ** EPITECH PROJECT, 2022
-** B-PSU-200-REN-2-1-minishell1-julien.bregent
+** loki
 ** File description:
 ** U_types.h
 */

@@ -1,13 +1,13 @@
 /*
 ** EPITECH PROJECT, 2023
-** list_add
+** loki
 ** File description:
 ** adds to a list
 */
 
 #include <stdlib.h>
-#include "linked_lists.h"
-#include "kepler/k_utils.h"
+#include "ehwaz/linked_lists.h"
+#include "uruz/u_utils.h"
 
 static unsigned int list_add_node(list_t *list, list_node_t *node)
 {
@@ -29,10 +29,10 @@ unsigned int list_add(list_t *list, void *value)
     list_node_t *node;
 
     if (!list || !value)
-        return K_SENTINEL | !CONST_WRITE(STDOUT, LIST_OR_VALUE_NULL);
+        return U_SENTINEL | !CONST_WRITE(STDOUT, LIST_OR_VALUE_NULL);
     node = malloc(sizeof(list_node_t));
     if (!node)
-        return K_SENTINEL | !CONST_WRITE(STDOUT, "Malloc failed\n");
+        return U_SENTINEL | !CONST_WRITE(STDOUT, "Malloc failed\n");
     node->value = value;
     node->next = NULL;
     node->prev = NULL;

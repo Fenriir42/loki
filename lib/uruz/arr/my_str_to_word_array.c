@@ -1,6 +1,6 @@
 /*
 ** EPITECH PROJECT, 2022
-** my_str_to_word_array
+** loki
 ** File description:
 ** my_str_to_word_array
 */

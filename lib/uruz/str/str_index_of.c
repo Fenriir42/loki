@@ -1,6 +1,6 @@
 /*
 ** EPITECH PROJECT, 2022
-** Lib
+** loki
 ** File description:
 ** str_index_of
 */

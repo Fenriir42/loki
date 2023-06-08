@@ -1,6 +1,6 @@
 /*
 ** EPITECH PROJECT, 2022
-** lib
+** loki
 ** File description:
 ** my_get_nbr
 */

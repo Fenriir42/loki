@@ -1,6 +1,6 @@
 /*
 ** EPITECH PROJECT, 2023
-** Project
+** loki
 ** File description:
 ** flag_select
 */
