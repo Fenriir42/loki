@@ -1,6 +1,6 @@
 /*
 ** EPITECH PROJECT, 2023
-** minishell 1
+** loki
 ** File description:
 ** U_utils
 */
@@ -25,7 +25,9 @@
     #endif /* !_NULL_H_*/
 
     #define ARG_ERROR "Incorrect Number of arguments\n"
-    #define K_SENTINEL (-1)
+    #define U_SENTINEL (-1)
+
+    #define IS_NUM(c) (c >= '0' && c <= '9')
 
 enum {
     STDIN = 0,

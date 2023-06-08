@@ -1,11 +1,11 @@
 /*
 ** EPITECH PROJECT, 2023
-** B-PSU-100-REN-1-1-navy-gabriel.hosquet
+** loki
 ** File description:
 ** mem_set
 */
 
-#include "my.h"
+#include "uruz/uruz.h"
 
 void *mem_set(void *src, int c, size_t n)
 {

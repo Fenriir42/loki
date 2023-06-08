@@ -1,11 +1,11 @@
 /*
 ** EPITECH PROJECT, 2022
-** Lib
+** loki
 ** File description:
 ** str_copy_at
 */
 
-#include "my.h"
+#include "uruz/uruz.h"
 
 char *str_copy_at(char const *str, size_t start, size_t end)
 {

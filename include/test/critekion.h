@@ -1,6 +1,6 @@
 /*
 ** EPITECH PROJECT, 2023
-** Kepler
+** loki
 ** File description:
 ** Fix the epitech coding style
 */

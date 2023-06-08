@@ -1,6 +1,6 @@
 /*
 ** EPITECH PROJECT, 2022
-** my_revstr.c
+** loki
 ** File description:
 ** reverse the string
 */

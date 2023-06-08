@@ -1,6 +1,6 @@
 /*
 ** EPITECH PROJECT, 2023
-** Lib
+** loki
 ** File description:
 ** mini_printf
 */

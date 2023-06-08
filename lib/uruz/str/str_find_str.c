@@ -1,6 +1,6 @@
 /*
 ** EPITECH PROJECT, 2022
-** Lib
+** loki
 ** File description:
 ** return a pointer of the sub-string
 */

@@ -1,6 +1,6 @@
 /*
 ** EPITECH PROJECT, 2022
-** lemin
+** loki
 ** File description:
 ** adjacence_matrix.c
 */

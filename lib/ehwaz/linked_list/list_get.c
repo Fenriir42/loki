@@ -1,11 +1,11 @@
 /*
 ** EPITECH PROJECT, 2023
-** list_get
+** loki
 ** File description:
 ** gets the content of a node
 */
 
-#include "linked_lists.h"
+#include "ehwaz/linked_lists.h"
 
 list_node_t *list_get_node(list_t *list, unsigned int index)
 {

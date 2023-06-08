@@ -1,6 +1,6 @@
 /*
 ** EPITECH PROJECT, 2022
-** dex to oct
+** loki
 ** File description:
 ** tranform decimal to octal
 */

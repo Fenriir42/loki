@@ -1,6 +1,6 @@
 /*
 ** EPITECH PROJECT, 2022
-** dec to bin
+** loki
 ** File description:
 ** convert a decimal to binary
 */

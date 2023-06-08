@@ -1,6 +1,6 @@
 /*
 ** EPITECH PROJECT, 2022
-** Lib
+** loki
 ** File description:
 ** error_display
 */

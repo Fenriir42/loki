@@ -1,6 +1,6 @@
 /*
 ** EPITECH PROJECT, 2022
-** get number
+** loki
 ** File description:
 ** str to nbr
 */

@@ -1,6 +1,6 @@
 /*
 ** EPITECH PROJECT, 2022
-** my power rec
+** loki
 ** File description:
 ** power but rec
 */
@@ -9,12 +9,10 @@
 
 int cal_power(int nb, int p)
 {
-    if (p == 0)
+    if (!p)
         return 1;
-    if (p < 0) {
+    if (p < 0)
         return 0;
+    return (nb * cal_power(nb, (p - 1 )));
 
-    } else {
-        return (nb * cal_power(nb, (p - 1 )));
-    }
 }

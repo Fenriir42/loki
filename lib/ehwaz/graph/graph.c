@@ -1,6 +1,6 @@
 /*
 ** EPITECH PROJECT, 2022
-** lemin
+** loki
 ** File description:
 ** graph.c
 */
@@ -10,7 +10,7 @@
 #include "graph.h"
 #include "kepler/k_debug_mode.h"
 #include "kepler/kepler.h"
-#include "kepler/k_utils.h"
+#include "uruz/u_utils.h"
 
 adjacent_node_t *new_adj_node(int dest)
 {

@@ -1,6 +1,6 @@
 /*
 ** EPITECH PROJECT, 2022
-** put float
+** loki
 ** File description:
 ** put float
 */

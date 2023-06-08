@@ -1,8 +1,8 @@
 /*
 ** EPITECH PROJECT, 2022
-** pushswap
+** loki
 ** File description:
-** pushswap main
+** str get from float
 */
 
 #include "uruz/uruz.h"
